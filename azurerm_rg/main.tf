@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "fine" {
-name = "loverg"
-location = "centralindia"
+name = "haterg"
+location = "east us"
 }
